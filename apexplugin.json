@@ -1,0 +1,36 @@
+{
+    "name": "QR Contact Save",
+    "version": "1.0",
+    "description": "QR Contact Save",
+    "keywords": ["qr contact save"],
+    "homepage": "https://github.com/farooqahmad47/QR-scan-contact",
+    "bugs": {
+      "url": "https://github.com/farooqahmad47/QR-scan-contact/issues",
+      "email": "farooq.oracle47@gmail.com"
+    },
+    "license": "MIT",
+    "commercial": "No",
+    "author": {
+      "name": "Farooq Ahmad",
+      "email": "farooq.oracle47@gmail.com",
+      "url": "https://www.linkedin.com/in/farooqahmadoracleapex/",
+      "twitter": "",
+      "donationUrl": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/farooqahmad47/QR-scan-contact.git"
+    },
+    "oracle": {
+      "versions": ["23.2.0", "21.1.0", "19.1.0"],
+      "apex": {
+        "versions": ["23.1.0","23.2.0"],
+        "plugin": {
+          "internalName": "CONTACT_QR",
+          "type": "template component",
+          "demo": "https://apex.oracle.com/pls/apex/r/ahmad_tech/plug-in-palace/login",
+          "previewImage": ""
+        }
+      }
+    }
+  }
