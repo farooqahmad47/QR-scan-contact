@@ -24,12 +24,12 @@
     "oracle": {
       "versions": ["23.2.0", "21.1.0", "19.1.0"],
       "apex": {
-        "versions": ["23.1.0","23.2.0"],
+        "versions": ["23.2.0"],
         "plugin": {
           "internalName": "CONTACT_QR",
           "type": "template component",
           "demo": "https://apex.oracle.com/pls/apex/r/ahmad_tech/plug-in-palace/login",
-          "previewImage": ""
+          "previewImage": "https://github.com/farooqahmad47/QR-scan-contact/blob/main/QR-scan-contact.png?raw=true"
         }
       }
     }
