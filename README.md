@@ -24,7 +24,7 @@ FROM dual;
 The provided example SQL query structure showcases how to retrieve contact details (Name, Cell Number, Email) and define the QR code dimensions (x_size, y_size).
 
 Compatibility:
-This plugin is compatible with Oracle APEX versions 23.1, 23.2.
+This plugin is compatible with Oracle APEX versions  23.2.
 
 Support:
 For any inquiries, issues, or suggestions, please farooq.oracle47@gmail.com.
