@@ -12,6 +12,8 @@ Installation: Import the plugin into your Oracle APEX application.
 Implementation: Add the plugin to the desired page / Classic Report / Intractive Report within your application.
 Configuration: Customize the SQL query to retrieve the contact details based on your requirements.
 Integration: Use the generated QR code to display the fetched contact information.
+![image](https://github.com/farooqahmad47/QR-scan-contact/assets/150562161/1c6bae8a-3491-4b7e-bbf6-06b4a4909cb5)
+
 SQL Query Example:
 sql
 SELECT 'Ahmad' as Name,
